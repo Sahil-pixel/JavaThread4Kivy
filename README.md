@@ -1,5 +1,6 @@
 # JavaThread4Kivy
 Java Thread Implementation for KIvy Android 
+For Single thread python thread is enough . but for multithread case use this java thread for better performance 
 ```PYTHON
 from kivy.app import App
 from kivy.uix.boxlayout import BoxLayout
